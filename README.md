@@ -1,2 +1,3 @@
 # GreenAIHackathon
-Hackathon organised by CentraleSupélec. Models assessed based on accuracy and environmental impact.
+Model training for the CentraleSupélec Green AI Hackathon 🤖🌱 </br>
+Classic NLP task, but final score based on combination of model perforance and environmental impact.
